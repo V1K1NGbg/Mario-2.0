@@ -25,7 +25,7 @@ var effect = true;
 var randomNumber2;
 var win;
 if (!lives) {
-  var lives = 1;
+  var lives = 3;
 }
 
 function preload() {
